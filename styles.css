@@ -1,0 +1,30 @@
+body{
+    background-color:rgba(166, 165, 165, 0.44);
+}
+h1{
+    background-color:white;
+    text-align:center;
+}
+.wrapper{
+    background-color:white;
+    width:500px;
+    margin:0 auto;
+}
+.picture{
+    height:450px;
+    width:500px;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    margin-left:10px;
+    margin-right:10px;
+}
+.picture2{
+    height:300px;
+    width:500px;
+}
+.picture3{
+    height:400px;
+    width:500px;
+}
